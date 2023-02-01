@@ -1,12 +1,12 @@
 [submodule "plugins/MultipleLocalAuth"]
 	path = plugins/MultipleLocalAuth
-	url = https://github.com/mapasculturais/plugin-MultipleLocalAuth
+	url = git@github.com:denysaraujo/plugin-MultipleLocalAuth.git
 [submodule "core"]
 	path = core
-	url = https://github.com/secultce/mapasculturais.git
+	url = git@github.com:denysaraujo/mapasculturais.git
 [submodule "plugins/Accessibility"]
 	path = plugins/Accessibility
-	url = https://github.com/govce/plugin-Accessibility.git
+	url = git@github.com:denysaraujo/plugin-Accessibility.git
 [submodule "plugins/AldirBlanc"]
 	path = plugins/AldirBlanc
 	url = https://github.com/govce/plugin-AldirBlanc.git
@@ -46,3 +46,6 @@
 [submodule "EvaluationMethodTechnical"]
 	path = plugins/EvaluationMethodTechnical
 	url = https://github.com/secultce/plugin-EvaluationMethodTechnical.git
+[submodule "themes/Paraiba"]
+	path = themes/Paraiba
+	url = git@github.com:denysaraujo/Thema-Paraiba.git
