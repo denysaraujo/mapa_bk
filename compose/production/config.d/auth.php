@@ -28,7 +28,7 @@ return [
         //'urlSupportSite' => 'https://leialdirblanc.secult.ce.gov.br/suporte',
 
         //url dos termos de uso para utilizar a plataforma
-        'urlTermsOfUse' => 'https://mapacultural.secult.pb.gov.br/autenticacao/termos-e-condicoes',
+        'urlTermsOfUse' => 'http://mapacultural.secult.pb.gov.br/autenticacao/termos-e-condicoes',
 
         //url de uma imagem para ser enviado como plano de fundo nos emails
         //'urlImageToUseInEmails' => 'https://mapacultural.secult.ce.gov.br/assets/img/email-aldir.png',
