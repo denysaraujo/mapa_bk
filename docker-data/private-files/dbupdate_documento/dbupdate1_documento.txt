@@ -1,0 +1,2 @@
+AGENTE_ID | NOME |NOME_COMPLETO | EMAIL_PRIVADO | TIPO_ATUAL| OPERACAO 
+1 | Admin@local |  |  | individual | Agente sem documento definido 
